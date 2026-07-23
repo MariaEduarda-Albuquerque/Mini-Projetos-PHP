@@ -16,7 +16,7 @@ Este projeto consiste em um *site de notícias simples*, contendo:
 O projeto foi desenvolvido apenas para fins acadêmicos.
 
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - PHP  
 - HTML
