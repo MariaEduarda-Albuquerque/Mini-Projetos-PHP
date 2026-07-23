@@ -27,6 +27,6 @@ Além do valor do IMC, o projeto também mostra:
 - CSS  
 
 
-## 🎓 Observação
+## Observação
 
 Projeto desenvolvido para *fins educacionais*, como parte dos estudos em desenvolvimento web.
