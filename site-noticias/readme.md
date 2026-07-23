@@ -1,11 +1,11 @@
-# 📰 Site de Notícias em PHP
+# Site de Notícias em PHP
 
 Projeto desenvolvido com fins educacionais, criado durante meus estudos na *Etec*.  
 O objetivo foi praticar *PHP*, organização de código, responsividade e estruturação de conteúdo dinâmico sem uso de banco de dados.
 
 
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto consiste em um *site de notícias simples*, contendo:
 
@@ -19,12 +19,12 @@ O projeto foi desenvolvido apenas para fins acadêmicos.
 ## 🛠️ Tecnologias utilizadas
 
 - PHP  
-- HTML5  
-- CSS3  
+- HTML
+- CSS  
 - Responsividade com media queries  
 
 
-## 🔧 Estrutura técnica (diferencial)
+## Estrutura técnica (diferencial)
 
 O projeto utiliza *vetores (arrays) em PHP* para armazenar os dados das notícias, como:
 
