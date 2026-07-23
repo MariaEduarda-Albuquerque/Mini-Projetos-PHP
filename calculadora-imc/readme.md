@@ -2,7 +2,7 @@
 
 Projeto desenvolvido com o objetivo de praticar *PHP*, formulários e lógica de cálculo.
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 A Calculadora de IMC permite que o usuário informe:
 
@@ -20,7 +20,7 @@ Além do valor do IMC, o projeto também mostra:
   - Sobrepeso
   - Obesidade
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - PHP  
 - HTML  
